@@ -1,6 +1,4 @@
-# Hi, I'm Shiva Kumar Velpula 👋
-
-## Senior Cloud, DevOps, SRE and AI/MLOps Engineer
+## Shiva Velpula| Senior Cloud, DevOps, SRE and AI/MLOps Engineer
 
 I design, automate, and operate secure cloud-native platforms for large-scale workloads. My work spans Azure infrastructure, Kubernetes platform engineering, CI/CD, Infrastructure as Code, observability, reliability engineering, and production AI/ML systems.
 
