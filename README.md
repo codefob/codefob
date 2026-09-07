@@ -46,6 +46,10 @@ I am currently expanding my work in production GenAI, agentic systems, AI observ
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0078D4?style=flat-square&logo=mlflow&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-6F42C1?style=flat-square&logo=openai&logoColor=white)
+![Agentic AI Operations](https://img.shields.io/badge/Agentic_AI_Ops-0A7EA4?style=flat-square&logo=dependabot&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-1F6FEB?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 🌐 Connect with Me
 
