@@ -51,7 +51,6 @@ I am currently expanding my work in production GenAI, agentic systems, AI observ
 
 - **LinkedIn:** [linkedin.com/in/shivavelpula](https://www.linkedin.com/in/shivavelpula)
 - **GitHub:** [github.com/codefob](https://github.com/codefob)
-- **Email:** [Shiva_velpula@outlook.com](mailto:Shiva_velpula@outlook.com)
 
 ---
 
